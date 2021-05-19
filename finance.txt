@@ -1,3 +1,9 @@
 Documents list
 -------------
 - invoice
+- money
+
+Risk
+-------------
+- solvency
+- liquidity
